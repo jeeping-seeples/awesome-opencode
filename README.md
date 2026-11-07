@@ -61,14 +61,6 @@
   </blockquote>
 </details>
 
-<details>
-  <summary><b>@telemetry-dev/opencode</b> <img src="https://badgen.net/github/stars/telemetry-dev/telemetry" height="14"/> - <i>OpenTelemetry traces for OpenCode agent turns, model calls, and tools</i></summary>
-  <blockquote>
-    Records OpenCode agent turns, model calls, tool executions, and session events with OpenTelemetry for telemetry.dev. Available as the @telemetry-dev/opencode npm package; source and setup instructions are in packages/opencode of the linked SDK repository.
-    <br><br>
-    <a href="https://github.com/telemetry-dev/telemetry">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
 
 <details>
   <summary><b>Agent Memory</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-agent-memory" height="14"/> - <i>Letta-inspired memory</i></summary>
@@ -124,23 +116,6 @@
   </blockquote>
 </details>
 
-<details>
-  <summary><b>Beads Plugin</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-beads" height="14"/> - <i>Beads issue tracker integration</i></summary>
-  <blockquote>
-    Integration for Steve Yegge's beads issue tracker with /bd-* commands.
-    <br><br>
-    <a href="https://github.com/joshuadavidthomas/opencode-beads">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Boffin</b> <img src="https://badgen.net/github/stars/MicSm/boffin" height="14"/> - <i>Routed architectural guardrails for AI coding agents in OpenCode</i></summary>
-  <blockquote>
-    Staff-engineer layer for AI coding agents: routes per-edit architectural constraints and requires verification. Not another AGENTS.md.
-    <br><br>
-    <a href="https://github.com/MicSm/boffin">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
 
 <details>
   <summary><b>BRHP</b> <img src="https://badgen.net/github/stars/ZanzyTHEbar/brhp" height="14"/> - <i>Persistent planning state</i></summary>
@@ -169,14 +144,6 @@
   </blockquote>
 </details>
 
-<details>
-  <summary><b>Caspian</b> <img src="https://badgen.net/github/stars/TryCaspian/caspian-sdk" height="14"/> - <i>Give your OpenCode agent an inbox — email, Telegram, and Discord</i></summary>
-  <blockquote>
-    Official Caspian plugin for OpenCode. Gives the agent a bidirectional inbox — email, Telegram, and Discord — with slash commands, session threading back to Gmail, and desktop notifications. No Caspian account required; on first start the plugin mints a sandbox project and provisions an agent email. Distributed via npm as caspian-opencode-plugin.
-    <br><br>
-    <a href="https://github.com/TryCaspian/caspian-sdk/tree/main/packages/opencode">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
 
 <details>
   <summary><b>CC Safety Net</b> <img src="https://badgen.net/github/stars/kenryu42/claude-code-safety-net" height="14"/> - <i>Safety net catching destructive commands</i></summary>
